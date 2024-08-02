@@ -519,4 +519,10 @@ form .send-btn:hover {
   form .send-btn{
     font-size: 10px;
   }
+  .hero{
+    background: none;
+  }
+  .h-btn{
+    display: none;
+  }
 }
